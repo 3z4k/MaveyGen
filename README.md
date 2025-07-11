@@ -1,2 +1,2 @@
 # MaveyGen
-A better version of my chrono llc repo
+A better version of my https://github.com/ChronoLLC/Chrono
